@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 22db0f4406d89c44fa2fd133c8882176
+  - enabled: 1
+    path: Assets/Scenes/HangarScene.unity
+    guid: c19ab0727c2b51543a1f715299104bf4
+  - enabled: 1
+    path: Assets/StarterAssets/FirstPersonController/Scenes/Playground.unity
+    guid: 707acc8dffb72b144bb1ffbe1c965f3d
+  - enabled: 0
+    path: Assets/Scenes/HordeMode/HordeModeMap.unity
+    guid: dd3c3f011080b414ab56e443b3c8e9aa
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+  m_UseUCBPForAssetBundles: 0
